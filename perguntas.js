@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Corinthians',
+    'O que significa a sigla SCCP?',
+    'SCCP é a sigla para Sport Club Corinthians Paulista'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Corinthians',
+    'Qual jogador é o maior artilheiro da história do Corinthians?',
+    'O maior jogador foi o Claúdio Cristóvam de Pinho, com 305 gols'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Corinthians',
+    'Em que ano o Corinthians conquistou seu primeiro campeonato brasileiro?',
+    'foi no ano de 1990'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Corinthians',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
