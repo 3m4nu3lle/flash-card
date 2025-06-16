@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Corinthians',
     'Qual jogador é o maior artilheiro da história do Corinthians?',
-    'O maior jogador foi o Claúdio Cristóvam de Pinho, com 305 gols'
+    'O maior jogador foi o Claúdio Cristóvam de Pinho, com 306 gols'
 )
 
 criaCartao(
@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Corinthians',
-    'Quantas ?',
-    'Oi em ingles é HI (RAI)'
+    'Quantas vezes o Corinthians foi campeão brasileiro?',
+    'Ele foi campeão brasileiro 7 vezes'
 )
